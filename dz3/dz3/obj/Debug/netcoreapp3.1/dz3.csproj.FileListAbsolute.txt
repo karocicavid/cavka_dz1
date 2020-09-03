@@ -1,0 +1,13 @@
+C:\Users\Cavid\source\repos\dz3\dz3\bin\Debug\netcoreapp3.1\dz3.exe
+C:\Users\Cavid\source\repos\dz3\dz3\bin\Debug\netcoreapp3.1\dz3.deps.json
+C:\Users\Cavid\source\repos\dz3\dz3\bin\Debug\netcoreapp3.1\dz3.runtimeconfig.json
+C:\Users\Cavid\source\repos\dz3\dz3\bin\Debug\netcoreapp3.1\dz3.runtimeconfig.dev.json
+C:\Users\Cavid\source\repos\dz3\dz3\bin\Debug\netcoreapp3.1\dz3.dll
+C:\Users\Cavid\source\repos\dz3\dz3\bin\Debug\netcoreapp3.1\dz3.pdb
+C:\Users\Cavid\source\repos\dz3\dz3\obj\Debug\netcoreapp3.1\dz3.csprojAssemblyReference.cache
+C:\Users\Cavid\source\repos\dz3\dz3\obj\Debug\netcoreapp3.1\dz3.AssemblyInfoInputs.cache
+C:\Users\Cavid\source\repos\dz3\dz3\obj\Debug\netcoreapp3.1\dz3.AssemblyInfo.cs
+C:\Users\Cavid\source\repos\dz3\dz3\obj\Debug\netcoreapp3.1\dz3.csproj.CoreCompileInputs.cache
+C:\Users\Cavid\source\repos\dz3\dz3\obj\Debug\netcoreapp3.1\dz3.dll
+C:\Users\Cavid\source\repos\dz3\dz3\obj\Debug\netcoreapp3.1\dz3.pdb
+C:\Users\Cavid\source\repos\dz3\dz3\obj\Debug\netcoreapp3.1\dz3.genruntimeconfig.cache
